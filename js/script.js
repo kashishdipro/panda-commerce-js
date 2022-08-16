@@ -25,3 +25,8 @@ for(const h2 of h2Collection){
 //     h2.style.color = "lightblue";
 // }
 /* -------------------------------------------------------------------------------------------- */
+
+// Using getElementById method changed the backgroundColor of section which named as 'backpack'  
+document.getElementById('backpack').style.backgroundColor= "tomato";
+
+/* -------------------------------------------------------------------------------------------- */
