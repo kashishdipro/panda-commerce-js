@@ -38,3 +38,10 @@ for(const card of cardCollect){
 }
 
 /* -------------------------------------------------------------------------------------------- */
+
+// Using function named as 'clickHandler' and connected it into subscribe section button using onclick handler
+function clickHandler(){
+    console.log('Button clicked');
+}
+
+/* -------------------------------------------------------------------------------------------- */
