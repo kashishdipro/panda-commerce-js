@@ -30,3 +30,11 @@ for(const h2 of h2Collection){
 document.getElementById('backpack').style.backgroundColor= "tomato";
 
 /* -------------------------------------------------------------------------------------------- */
+
+// Using getElementsByClassName changed the borderRadius of class named as 'card'
+const cardCollect = document.getElementsByClassName('card');
+for(const card of cardCollect){
+    card.style.borderRadius = "30px";
+}
+
+/* -------------------------------------------------------------------------------------------- */
