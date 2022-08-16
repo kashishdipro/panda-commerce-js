@@ -1,0 +1,23 @@
+.banner-background-color{
+    background-color: #FEEAE9;
+}
+.subscribe-background-color{
+    background-color: #FFF2F1;
+    height: 300px;
+}
+.watch-background-color{
+    background-color: orange;
+}
+.shoes-background-color{
+    background-color: orchid;
+}
+.bag-background-color{
+    background-color: blue;
+}
+.btn-buy-now{
+    background-image: linear-gradient(to bottom, #FF589B 0%, #FF136F 100%);
+    color: #fff;
+    border: none;
+    border-radius: 8px;
+    padding: 9px 25px;
+}
